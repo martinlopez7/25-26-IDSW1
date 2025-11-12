@@ -2,7 +2,7 @@
 
 ### 1º Iteración
 
-Este es el diagrama original que entregué el dia de la primera parte
+Este es el diagrama original que se entregó el dia de la primera parte
 
 | ![1º DiagramaEntidades](images/diagramaEntidadesIteracion1.svg) |
 | :--- |
@@ -39,3 +39,14 @@ Cambios:
 | ![4º DiagramaEntidades](images/diagramaEntidadesIteracion4.svg) |
 | :--- |
 | [Ver código](modelosUML/diagramaEntidadesIteracion4.puml) |
+
+### 5º Iteración 
+
+Cambios:
+- Adición de los atributos "nombre" y "tipo" a la entidad "Campo"
+- Adición del atributo "tipo" a la entidad "Llave"
+- Adición del atributo "tipo" y sus respectivos tipos a la entidad "Restriccion"
+
+| ![5º DiagramaEntidades](images/diagramaEntidadesIteracion5.svg) |
+| :--- |
+| [Ver código](modelosUML/diagramaEntidadesIteracion5.puml) |
