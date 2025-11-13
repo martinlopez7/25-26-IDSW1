@@ -1,4 +1,8 @@
-# Changelog del diagrama de estados
+# Diagrama de estados y de objetos de un sistema de gestión de bases de datos relacional
+
+[Ir a diagramas de objetos](#Diagramas-de-objetos)
+
+## Changelog del diagrama de estados
 
 ### 1º Iteración
 
@@ -50,3 +54,12 @@ Cambios:
 | ![5º DiagramaEntidades](images/diagramaEntidadesIteracion5.svg) |
 | :--- |
 | [Ver código](modelosUML/diagramaEntidadesIteracion5.puml) |
+
+## Diagramas de objetos
+
+Diagrama de objetos de un sistema de gestión academica
+
+| ![1º Diagrama de objetos](images/diagramaObjetos1.svg) |
+| :--- |
+| [Ver código](modelosUML/diagramaObjetos1.puml) |
+
