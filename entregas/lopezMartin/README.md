@@ -57,9 +57,14 @@ Cambios:
 
 ## Diagramas de objetos
 
-Diagrama de objetos de un sistema de gestión academica
+### Diagrama de objetos de un sistema de gestión academica
 
 | ![1º Diagrama de objetos](images/diagramaObjetos1.svg) |
 | :--- |
 | [Ver código](modelosUML/diagramaObjetos1.puml) |
 
+### Diagrama de objetos de un sistema de inventario
+
+| ![2º Diagrama de objetos](images/diagramaObjetos2.svg) |
+| :--- |
+| [Ver código](modelosUML/diagramaObjetos2.puml) |
