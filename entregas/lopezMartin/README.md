@@ -1,4 +1,4 @@
-# Diagrama de estados y de objetos de un sistema de gestión de bases de datos relacional
+# Diagramas de entidades y de objetos de un sistema de gestión de bases de datos relacional
 
 [Ir a diagramas de objetos](#Diagramas-de-objetos)
 
