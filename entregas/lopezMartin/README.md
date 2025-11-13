@@ -2,7 +2,7 @@
 
 [Ir a diagramas de objetos](#Diagramas-de-objetos)
 
-## Changelog del diagrama de estados
+## Changelog del diagrama de entidades
 
 ### 1º Iteración
 
